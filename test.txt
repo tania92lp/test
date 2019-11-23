@@ -3,9 +3,12 @@ initial commit
 ico changed this line!
 ico cganged this too. This line needs more info.
 
+
+
 Tania - new line
 
 hhhhh
 fsdfsd
+Conflict on this line will emerge.
 
 sss
