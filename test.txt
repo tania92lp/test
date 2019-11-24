@@ -1,8 +1,4 @@
 initial commit
 
 ico changed this line!
-ico cganged this too. This line needs more info.
-
-Tania - new line
-
-Conflict on this line will emerge.
+ico cganged this too.
